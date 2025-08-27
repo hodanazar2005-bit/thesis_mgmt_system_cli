@@ -1,0 +1,33 @@
+[
+  {
+    "professor_id": "9001",
+    "name": "Prof. Smith",
+    "password_hash": "25f43b1486ad95a1398e3eeb3d83bc4010015fcc9bedb35b432e00298d5021f7",
+    "capacity_advisor": 5,
+    "capacity_judge": 10,
+    "fields": [
+      "AI",
+      "IR"
+    ],
+    "current_advisees": [
+      "40110002",
+      "40110001"
+    ],
+    "current_judgings": []
+  },
+  {
+    "professor_id": "9002",
+    "name": "Prof. Johnson",
+    "password_hash": "1c142b2d01aa34e9a36bde480645a57fd69e14155dacfab5a3f9257b77fdc8d8",
+    "capacity_advisor": 5,
+    "capacity_judge": 10,
+    "fields": [
+      "DB",
+      "Software"
+    ],
+    "current_advisees": [],
+    "current_judgings": [
+      "T2"
+    ]
+  }
+]

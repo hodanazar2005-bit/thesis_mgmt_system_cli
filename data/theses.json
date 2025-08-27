@@ -1,0 +1,42 @@
+[
+  {
+    "thesis_id": "T1",
+    "title": "star",
+    "keywords": [
+      "star",
+      ""
+    ],
+    "abstract": "szxdcfvgbh",
+    "fulltext_link": null,
+    "student_id": "40110002",
+    "advisor_id": "9001",
+    "year": 2024,
+    "semester": "First",
+    "judge_internal_id": null,
+    "judge_external": null,
+    "defense_date": null,
+    "status": "defended",
+    "grade": "10",
+    "result": "good"
+  },
+  {
+    "thesis_id": "T2",
+    "title": "AI and deep learning",
+    "keywords": [
+      "AI",
+      "Deep learning"
+    ],
+    "abstract": "AI",
+    "fulltext_link": null,
+    "student_id": "40110001",
+    "advisor_id": "9001",
+    "year": 2024,
+    "semester": "First",
+    "judge_internal_id": "9002",
+    "judge_external": "9001",
+    "defense_date": "1/1/2005",
+    "status": "defended",
+    "grade": "20",
+    "result": "Good"
+  }
+]
